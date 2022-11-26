@@ -1,0 +1,6 @@
+#boiVerde{
+    display: flex;
+    justify-content: center;
+    flex-flow: column wrap;
+    font-size: 25px;
+}
