@@ -1,0 +1,20 @@
+#autores {
+    justify-content: space-around;      
+}
+#autores h2{
+    margin-top: 2%;
+}
+#contenner {
+    display: flex;
+    flex-direction: row;
+}
+
+#contenner .erik {
+    text-align: justify;
+}
+#contenner .carlo{
+    text-align: justify;
+}
+#contenner .mnarc{
+    text-align: justify;
+}
